@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\C++\\games\\PacMan\\Source\\PacMan\\PacMan.Build.cs",
+		"D:\\C++\\games\\PacMan\\Source\\PacMan.Target.cs",
+		"D:\\C++\\games\\PacMan\\Source\\PacManEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
